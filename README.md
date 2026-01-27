@@ -1,4 +1,4 @@
-# capFilter - 高性能交互式数据包清洗工具
+# CapFilter - 高性能交互式数据包清洗工具
 
 **PcapFilter** 是一个基于 Python 和 `Tshark` (Wireshark CLI) 构建的高效网络流量取证与清洗工具。它旨在解决处理大体积 PCAP 文件时手动过滤繁琐、解析速度慢以及复杂协议（如 MongoDB）可能导致解析器崩溃的问题。
 
